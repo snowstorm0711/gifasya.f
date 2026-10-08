@@ -11,6 +11,7 @@
     <ul>
         <li> <a href="" >Home</a>  </li>
         <li> <a href="about.html" class="abt">About</a> </li>
+        <li> <a href="product.html" class="prdct">Product</a> </li>
     </ul>
     <marquee behaviour="alternate">Made by ousmane</marquee>
 </body>
