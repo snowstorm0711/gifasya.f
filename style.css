@@ -20,7 +20,7 @@ li {
     display: inline;
 }
 a {
- color: rgba(126, 21, 87, 0.713);
+ color: darkred;
 }
 marquee {
     color: azure;
