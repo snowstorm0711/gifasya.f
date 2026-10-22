@@ -53,3 +53,5 @@ img {
     display: block;
     justify-content: center;
 }
+nav {display:flex; justify-content: center;gap: 10px;
+}
