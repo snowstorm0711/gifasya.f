@@ -52,6 +52,7 @@ img {
     border-radius: 2px;
     display: block;
     justify-content: center;
+    margin: auto;
 }
 nav {display:flex; justify-content: center;gap: 10px;
 }
